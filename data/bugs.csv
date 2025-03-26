@@ -1,0 +1,3 @@
+id,user_id,username,description,steps,created_at,status,upvotes
+1,1237777307855491134,sir_axolotl_alot_54701,Hey this bug exists,123,2025-03-26T20:54:54.747Z,open,0
+2,1237777307855491134,sir_axolotl_alot_54701,Hey,123,2025-03-26T20:55:00.095Z,open,1
